@@ -1,0 +1,11 @@
+{
+  "name": "cinema-tv-home",
+  "version": "1.0.0",
+  "appName": "Cinema Home",
+  "description": "A quiet, cinematic home for YouTube, Netflix, HBO Max, Prime Video, Apple TV, and YouTube TV.",
+  "packageType": "app",
+  "appPath": "index.html",
+  "serviceFile": "service.js",
+  "keys": ["MediaPlayPause", "MediaPlay", "MediaPause", "Info", "ColorF0Red", "ColorF1Green", "ColorF2Yellow", "ColorF3Blue"],
+  "license": "MIT"
+}
